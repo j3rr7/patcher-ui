@@ -1,0 +1,9 @@
+[project]
+name = "patcher-ui"
+version = "0.1.0"
+description = "GUI tool to create and apply file patches (diff/patch format)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "detools>=0.53.0",
+]
