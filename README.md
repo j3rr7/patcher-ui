@@ -24,6 +24,9 @@ Or download a binary from the releases.
 - Logging & reporting — detailed operation logs and a summary report after apply/create operations.
 - Plugin/extension.
 
+# Screenshots
+<img width="796" height="966" alt="image" src="https://github.com/user-attachments/assets/e335e609-3a42-479f-aafd-c8edf526c74a" />
+
 # Plugin
 
 ## File and Folder Structure
